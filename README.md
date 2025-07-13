@@ -52,9 +52,9 @@ The goal is to uncover patterns and insights that influenced passenger survival 
 ## 📬 Contact
 
 Feel free to connect with me if you have feedback or suggestions:  
-📧 soham@example.com (replace with real contact)  
+📧 soham.mishra206@gmail.com   
 🔗 [LinkedIn](https://www.linkedin.com/in/soham-mishra-58434a281/)  
-📂 [Portfolio](https://github.com/soham-mishra) (optional)
+📂 [Portfolio](https://github.com/sohmxdd)
 
 ---
 
